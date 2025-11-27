@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FluentIELTS AI",
+  "description": "A comprehensive IELTS Speaking preparation app featuring AI-powered vocabulary building, answer scaffolding, and realistic mock tests with instant feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
